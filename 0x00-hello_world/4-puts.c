@@ -1,6 +1,6 @@
 alx-low_level_programming/0x00-hello_world/4-puts.c
-@Ifeoluwa19
-Ifeoluwa19 4-6task
+@loveth10
+loveth10 4-6task
 Latest commit db121de yesterday
  History
  1 contributor
